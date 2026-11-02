@@ -42,18 +42,6 @@ Analysis of Australian emergency department performance using publicly available
 🔗 [View Repository](https://github.com/vishalakula09/Australian-Hospital-ED-Analytics)
 
 
----
-
-### 🏥 Australian Hospital Emergency Department Analytics
-
-Analysis of Australian emergency department performance using publicly available healthcare reporting data.
-
-- Analysed emergency department demand and patient treatment timeliness.
-- Investigated four-hour departure performance and length-of-stay indicators.
-- Explored state-level performance and hospital comparisons.
-- Used Python and SQL for data preparation, analysis and reporting, with Power BI for visualisation.
-
-🔗 [View Repository](https://github.com/vishalakula09/Australian-Hospital-ED-Analytics)
 
 ## 🎓 Education
 
