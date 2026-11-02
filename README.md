@@ -19,9 +19,41 @@ I enjoy transforming complex datasets into meaningful insights using Python, SQL
 ## 📊 Featured Projects
 
 ### 🚕 NYC Taxi Analytics
+
 End-to-end analysis of New York City taxi trip data using Python, MySQL and Power BI.
 
-[View Repository](https://github.com/vishalakula09/NYC-Taxi-Analytics)
+- Analysed taxi demand, trip durations and travel patterns.
+- Explored peak pickup hours and weekday versus weekend trends.
+- Used SQL and Python to generate business insights.
+
+🔗 [View Repository](https://github.com/vishalakula09/NYC-Taxi-Analytics)
+
+---
+
+### 🏥 Australian Hospital Emergency Department Analytics
+
+Analysis of Australian emergency department performance using publicly available healthcare reporting data.
+
+- Analysed emergency department demand and patient treatment timeliness.
+- Investigated four-hour departure performance and length-of-stay indicators.
+- Explored state-level performance and hospital comparisons.
+- Used Python and SQL for data preparation, analysis and reporting, with Power BI for visualisation.
+
+🔗 [View Repository](https://github.com/vishalakula09/Australian-Hospital-ED-Analytics)
+
+
+---
+
+### 🏥 Australian Hospital Emergency Department Analytics
+
+Analysis of Australian emergency department performance using publicly available healthcare reporting data.
+
+- Analysed emergency department demand and patient treatment timeliness.
+- Investigated four-hour departure performance and length-of-stay indicators.
+- Explored state-level performance and hospital comparisons.
+- Used Python and SQL for data preparation, analysis and reporting, with Power BI for visualisation.
+
+🔗 [View Repository](https://github.com/vishalakula09/Australian-Hospital-ED-Analytics)
 
 ## 🎓 Education
 
